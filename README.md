@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Ali 👋
 
-<!--
-**alimolla24777-rgb/alimolla24777-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nutrition student who moved into building software because reading about problems wasn't enough.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: a nutrition app from scratch (React/Vite + Electron, Node.js + PostgreSQL)
+- 🌱 Currently learning: Python, French, and Spanish — all at once, apparently
+- 🔬 Research focus: meta-analysis, computational epidemiology, ML in medicine
+- 💪 When not coding: probably at the gym
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Reach me
+
+📫 [Email] · 💼 [LinkedIn] · 🔬 [ResearchGate]
