@@ -15,6 +15,5 @@ Nutrition student who moved into building software because reading about problem
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Reach me
 
-📫 [Email] · 💼 [LinkedIn] · 🔬 [ResearchGate]
+
